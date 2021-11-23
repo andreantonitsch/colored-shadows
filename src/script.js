@@ -83,7 +83,7 @@ renderer.shadowMap.enabled = true
 const material = new THREE.MeshStandardMaterial()
 material.roughness = 0.7
 gui.add(material, 'metalness').min(0).max(1).step(0.001)
-   .name('material matalness')
+   .name('material metalness')
 
 gui.add(material, 'roughness').min(0).max(1).step(0.001)
    .name('material roughness')
