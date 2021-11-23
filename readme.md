@@ -1,6 +1,7 @@
-# Three.js Journey
+# Colored Shadows
 
 ## Setup
+Setup based on the Threejs Journey[https://threejs-journey.com] lessons
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
